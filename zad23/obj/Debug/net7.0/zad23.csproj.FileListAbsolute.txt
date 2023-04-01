@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dz3\zad23\bin\Debug\net7.0\zad23.exe
+C:\Users\admin\Desktop\dz3\zad23\bin\Debug\net7.0\zad23.deps.json
+C:\Users\admin\Desktop\dz3\zad23\bin\Debug\net7.0\zad23.runtimeconfig.json
+C:\Users\admin\Desktop\dz3\zad23\bin\Debug\net7.0\zad23.dll
+C:\Users\admin\Desktop\dz3\zad23\bin\Debug\net7.0\zad23.pdb
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\zad23.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\zad23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\zad23.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\zad23.AssemblyInfo.cs
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\zad23.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\zad23.dll
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\refint\zad23.dll
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\zad23.pdb
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\zad23.genruntimeconfig.cache
+C:\Users\admin\Desktop\dz3\zad23\obj\Debug\net7.0\ref\zad23.dll
